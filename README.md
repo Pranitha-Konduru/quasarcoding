@@ -12,6 +12,6 @@ It loads the provided EEG/ECG CSV and displays an interactive, scrollable, zooma
 ## How to Run
 1. Clone this repo and change into it:
    ```bash
-   git clone [YOUR_REPO_URL]
-   cd [REPO_NAME]
+   git clone https://github.com/Pranitha-Konduru/quasarcoding
+   cd quasarcoding
 >>>>>>> 252fded (Initial commit: QUASAR coding screener solution)
